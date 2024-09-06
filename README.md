@@ -1,3 +1,4 @@
+Edited by Kamran
 # Hoppscotch Browser Extension
 
 | Chrome | Firefox |
